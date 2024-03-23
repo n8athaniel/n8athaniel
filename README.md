@@ -9,6 +9,7 @@ My website: https://natee.no/
 [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,blender,figma)](https://skillicons.dev)
 
 ## Linked 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) My linkedin: https://www.linkedin.com/in/nathaniel-bjerke-kildal/
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) My linkedin: https://www.linkedin.com/in/nathaniel-bjerke-kildal-6aa916266/
+
 
 
