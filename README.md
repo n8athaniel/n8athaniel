@@ -1,6 +1,6 @@
 # Nathaniel aka. Nate 👋
 Hello! I am Nathaniel or nate. IT student and teacher at OsloMet and Lillestrøm VGS <br>
-My website: https://natee.no/
+
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,java,firebase,mysql,py,react,idea,postman)](https://skillicons.dev)
 
