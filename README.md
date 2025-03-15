@@ -1,12 +1,15 @@
-# Nathaniel aka. Nate 👋
-Hello! I am Nathaniel or nate. IT student and teacher at OsloMet and Lillestrøm VGS <br>
+# HeiHei!👋
+I am Nathaniel aka. Nate! <br>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,firebase,mysql,py,react,idea,postman)](https://skillicons.dev)
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,firebase,mysql,py,postman)](https://skillicons.dev)
 
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,ts,html,css)](https://skillicons.dev)
 
-### Creative: 
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,blender,figma)](https://skillicons.dev)
+#### Fun stuff
+[![My Skills](https://skillicons.dev/icons?i=idea,godot,unreal)](https://skillicons.dev)
 
 ## Linked 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) My linkedin: https://www.linkedin.com/in/nathaniel-bjerke-kildal-6aa916266/
