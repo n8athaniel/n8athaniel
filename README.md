@@ -10,7 +10,6 @@ I am Nathaniel aka. Nate! <br>
 
 
 ## Linkedin 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) My linkedin: https://www.linkedin.com/in/nathaniel-bjerke-kildal-6aa916266/
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [My linkedin](https://www.linkedin.com/in/nathaniel-wilhelm-bjerke-kildal-6aa916266/)
 
 
