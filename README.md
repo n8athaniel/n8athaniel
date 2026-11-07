@@ -9,7 +9,3 @@ I am Nathaniel aka. Nate! <br>
 [![My Skills](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev) <br>
 
 
-## Linkedin 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [My linkedin](https://www.linkedin.com/in/nathaniel-wilhelm-bjerke-kildal-6aa916266/)
-
-
