@@ -1,11 +1,12 @@
-# HeiHei!👋
-I am Nathaniel aka. Nate! <br>
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,firebase,mysql,py)](https://skillicons.dev) <br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,ts,html,css)](https://skillicons.dev) <br>
-
-[![My Skills](https://skillicons.dev/icons?i=godot,unreal)](https://skillicons.dev) <br>
+# Hei!
+Nathaniel. 
 
 
+
+
+I have also spent some years with creative work like video, 3d and more. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender" />
+  </a>
+</p>
